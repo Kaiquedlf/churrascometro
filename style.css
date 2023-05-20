@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+.container{
+    background-color: rgba(4, 194, 194, 0.336);
+    margin: 0 auto;
+    padding: 10px;
+    width: 400px;
+}
+
+input{
+    display: block;
+    margin: 5px auto;
+}
+
+.hidden{
+ display: none;
+}
